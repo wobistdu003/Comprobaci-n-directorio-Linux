@@ -1,2 +1,3 @@
 # solruta.sh
-Validar si es una ruta o un archivo en la shel de linux.
+
+Este script te permite ingresar una ruta y validar si corresponde a una ruta o archivo en el sistema Linux a través de la consola.
