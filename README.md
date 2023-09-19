@@ -1,6 +1,5 @@
 
-![word-image](https://github.com/wobistdu003/Comprobaci-n-directorio-Linux/assets/110427600/a9d22a95-5ef6-4469-ad36-661c385381e7)
-
+![word-image](https://github.com/wobistdu003/Comprobaci-n-directorio-Linux/assets/110427600/0684b682-f874-4f0a-8461-a1b72671e31f)
 
 # Comprobar si un archivo o carpeta existe o no.
 
